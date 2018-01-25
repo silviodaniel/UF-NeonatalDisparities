@@ -1,0 +1,2 @@
+# UF-NeonatalDisparities
+Neonatal disparities project at the University of Florida collaborating with Dr. Diana Montoya-Williams (neonatalogy fellow) and Dr. Thompson analyzing the state-mandated Healthy Start program. The aim is to use the screening tool, a Healthy Start form, to identify risk factors and thus build a model predicting probability of adverse birth outcomes (preterm, low birth weight). 
